@@ -1,0 +1,6 @@
+@AvalphaTechnologies.CommissionCalculator_HostAddress = http://localhost:5139
+
+GET {{AvalphaTechnologies.CommissionCalculator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
